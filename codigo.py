@@ -1,4 +1,4 @@
-nombre="Ponmi"
+nombre="Edilzon Yareth"
 apellido = "Palacios"
 
 saludo = "Hola "+nombre+" "+apellido+" ¿Como estas?"
